@@ -65,6 +65,7 @@
 
         <converters:GraphicVisibilityConverter x:Key="graphicVisibility_Converter"/>
         <converters:GraphicRenderTypeConverter x:Key="graphicRenderType_Converter"/>
+        
     </Window.Resources>
 
 
